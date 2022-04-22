@@ -167,5 +167,3 @@ $ git push origin add-code
 Add Bootstrap to your HTML elements like buttons and the form.
 
 NOTE: Do not remove the ID attributes from the HTML. When you copy over the Bootstrap component, make sure to add the attribute to it.
-
-
